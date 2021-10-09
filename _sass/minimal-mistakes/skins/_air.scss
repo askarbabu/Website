@@ -22,6 +22,15 @@ $navicon-link-color-hover: mix(#fff, $text-color, 80%) !default;
   color: inherit;
 }
 
-.archive__item-title{
-  text-decoration: none !important;
-}
+// .archive__item-title{
+//   text-decoration: none !important;
+// }
+
+
+a:link { text-decoration: none !important; }
+
+a:visited { text-decoration: none !important; }
+
+a:hover { text-decoration: none !important; }
+
+a:active { text-decoration: none !important; }
