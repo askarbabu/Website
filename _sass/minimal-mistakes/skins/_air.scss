@@ -23,5 +23,5 @@ $navicon-link-color-hover: mix(#fff, $text-color, 80%) !default;
 }
 
 .archive__item-title{
-  text-decoration: none;
+  text-decoration: none !important;
 }
